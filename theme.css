@@ -1,0 +1,13 @@
+app {
+	background-color: #1e2024;
+}
+
+button {
+	background-color: #1e2024;
+}
+
+button:focus {
+	font-size: 20px;
+	background-color: #A6529F;
+}
+
